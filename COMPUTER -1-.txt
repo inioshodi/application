@@ -1,2 +1,0 @@
-It is not advisable to use recurssion method to find the fibonacci of a number because it is inefficient(steps would be repeated multiple times). For example, Fib(4) would lead to finding Fib(3) & Fib (2), in turn Fib (3) leads to finding Fib(2) [again], which is inefficient.
-It Could also use a stack space which could cause memory overflow. Iteration is preferred.
